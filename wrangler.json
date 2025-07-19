@@ -13,7 +13,7 @@
     {
       "binding": "AUTH_DB",
       "database_name": "openauth-template-auth-db",
-      "database_id": "26127a0f-eb38-4442-8353-28b0b038013a"
+      "database_id": "56b48c8a5c93449c8b4e8b5e114ed94a"
     }
   ],
   "observability": {
